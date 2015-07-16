@@ -1,0 +1,23 @@
+{
+  "name": "straw-first-demo",
+  "version": "1.0.0",
+  "description": "straw-first-demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "data",
+    "flow",
+    "programming"
+  ],
+  "author": "Mauricio",
+  "license": "MIT",
+  "dependencies": {
+    "straw": "^0.3.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2"
+  }
+}
